@@ -1,0 +1,2 @@
+# Voice-Controlled-LEDs-using-Arduino-and-Bluetooth
+Controlling LEDs with voice command seems to be a difficult task, but it’s easy and you can quickly build it. We just need an Arduino UNO to serially communicate with HC-06 Bluetooth module and a smartphone to send voice command to Bluetooth module HC-06. For receiving voice command we are using “Arduino Bluetooth Voice Controller” android app which you can download from play store
